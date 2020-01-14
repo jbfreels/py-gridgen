@@ -3,6 +3,8 @@ Python grid generator using matplotlib
 
 This is a quick and easy way to generate a grid and save it to a local file.
 
+Tested with Python 3.7.6 and Python 2.7.16
+
 ## setup
 Install the required libs from *requirements.txt*
 
